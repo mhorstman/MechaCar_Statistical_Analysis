@@ -17,7 +17,7 @@ A linear regression analysis was run against the MPG data. Using a signicance le
 ![MPG Linear Regression](https://github.com/mhorstman/MechaCar_Statistical_Analysis/blob/main/Screen_Shots/MPG_Linear_Regression.png)
 
 ### Deliverable 2: Summary Statistics on Suspension Coils
-An analysis was run against the suspension datat to ensure the variance of the suspension coils not exceed 100 pounds per square inch per the design specifications for the MechaCar suspension coils. When looking at all manufacturing lots together the variance is less than 100 PSI and therefore within design specifications. However when looking at the 3 manufacturing lots individually Lot 1 & 2 have very small variances which are well within the design specifications, but Lot 3 exceeds the variance and needs to be examined in more detail. The full summary statistics for suspension PSI are below for reference.
+An analysis was run against the suspension datat to ensure the variance of the suspension coils not exceed 100 pounds per square inch per the design specifications for the MechaCar suspension coils. When looking at all manufacturing lots together the variance is less than 100 PSI and therefore within design specifications. However when looking at the 3 manufacturing lots individually Lot 1 & 2 have very small variances which are well within the design specifications (variance = 1.0 and 7.5 respectively), but Lot 3 exceeds the variance and needs to be examined in more detail (variance = 170.3). The full summary statistics for suspension PSI are below for reference.
 
 ![Suspension Total Summary](https://github.com/mhorstman/MechaCar_Statistical_Analysis/blob/main/Screen_Shots/Suspension_total_summary.png)
 
