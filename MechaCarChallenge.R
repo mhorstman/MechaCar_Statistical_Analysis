@@ -36,3 +36,5 @@ suspension_lot3 <- subset(suspension_df, Manufacturing_Lot == 'Lot3')
 t.test(suspension_lot1$PSI, mu=mean(suspension_df$PSI))
 t.test(suspension_lot2$PSI, mu=mean(suspension_df$PSI))
 t.test(suspension_lot3$PSI, mu=mean(suspension_df$PSI))
+
+# DELIVERABLE 4
